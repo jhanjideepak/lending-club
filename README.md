@@ -2,13 +2,16 @@
 
 The case study focuses on EDA mainly, to understand which parameters are major to detect whether a customer will default loan or not. Pesented a PPT to illustrate the major parameter to consider while giving loans along their data distributions.
 
-Prerequisites
+
+### Prerequisites
 - Install Python 3.8
 
-How to Install?
-git clone -b https://github.com/jhanjideepak/lending-club.git
 
-Requirements
+### How to Install?
+- git clone -b https://github.com/jhanjideepak/lending-club.git
+
+
+### Requirements
 - pandas
 - numpy
 - plotly
@@ -16,6 +19,6 @@ Requirements
 - seaborn
 - datetime
 
-Contributors:
-Deepak Jhanji
+
+### Contributors: Deepak Jhanji
 
